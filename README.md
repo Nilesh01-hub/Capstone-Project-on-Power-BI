@@ -1,1 +1,1 @@
-# Capstone-Project-on-Power-BI
+The ShopNest Store Business Analysis is a comprehensive report that uses Power BI to analyze the store's sales, customer behavior, and operational data. The report provides insights into top-selling categories, delayed orders, payment methods, product ratings, state-wise sales, and seasonal sales patterns. Key findings include the popularity of Health and Beauty and Watches and Gifts, the need to improve supply chain for delayed orders, the dominance of credit card payments, and the strong sales performance# Capstone-Project-on-Power-BI
